@@ -1,8 +1,8 @@
 {
-	"name":	"wiki-plugin-reference",
-	"version":	"0.1.0",
-	"description": "Federated Wiki - Reference Plug-in",
-	"keywords":	[
+  "name": "wiki-plugin-reference",
+  "version": "0.1.1",
+  "description": "Federated Wiki - Reference Plug-in",
+  "keywords": [
     "wiki",
     "federated wiki",
     "plugin"
