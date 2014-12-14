@@ -15,12 +15,12 @@
       "text": "You can add references to other Federated Wiki sites. Here we show what a reference looks like."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "8e0a03dd6d1d76e1",
-      "text": "<h3>How They Works"
+      "text": "<h3>How They Works</h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "ea7869e956912f8e",
       "text": "A reference consists of three parts.\n<li> Remote flag (favicon), retrieved when viewed.\n<li> Page name as it would appear in a url.\n<li> First paragraph of cited page, retrieved once."
     },
@@ -35,9 +35,9 @@
       "text": "The remote pages show up side by side with pages from the origin wiki site. You can click on a remote pages flag (the larger icon) to go to the remote site and make it the origin. "
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "860cc080f953f9a4",
-      "text": "<h3> How to Make Them"
+      "text": "<h3>How to Make Them</h3>"
     },
     {
       "type": "paragraph",
@@ -289,6 +289,57 @@
         "text": "<h3>How They Works"
       },
       "date": 1349294059240
+    },
+    {
+      "type": "edit",
+      "id": "8e0a03dd6d1d76e1",
+      "item": {
+        "type": "html",
+        "id": "8e0a03dd6d1d76e1",
+        "text": "<h3>How They Works"
+      },
+      "date": 1418371797367
+    },
+    {
+      "type": "edit",
+      "id": "8e0a03dd6d1d76e1",
+      "item": {
+        "type": "html",
+        "id": "8e0a03dd6d1d76e1",
+        "text": "<h3>How They Works</h3>"
+      },
+      "date": 1418371802823
+    },
+    {
+      "type": "edit",
+      "id": "ea7869e956912f8e",
+      "item": {
+        "type": "html",
+        "id": "ea7869e956912f8e",
+        "text": "A reference consists of three parts.\n<li> Remote flag (favicon), retrieved when viewed.\n<li> Page name as it would appear in a url.\n<li> First paragraph of cited page, retrieved once."
+      },
+      "date": 1418371805095
+    },
+    {
+      "type": "edit",
+      "id": "860cc080f953f9a4",
+      "item": {
+        "type": "html",
+        "id": "860cc080f953f9a4",
+        "text": "<h3> How to Make Them"
+      },
+      "date": 1418371811497
+    },
+    {
+      "type": "edit",
+      "id": "860cc080f953f9a4",
+      "item": {
+        "type": "html",
+        "id": "860cc080f953f9a4",
+        "text": "<h3>How to Make Them</h3>"
+      },
+      "date": 1418371821344
     }
-  ]
+  ],
+  "plugin": "reference"
 }
