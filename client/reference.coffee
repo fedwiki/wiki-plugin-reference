@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Reference Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-reference/blob/master/LICENSE.txt
+###
+
 window.plugins.reference =
 window.plugins.federatedWiki =
   emit: ($item, item) ->
