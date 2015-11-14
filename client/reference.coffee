@@ -12,7 +12,7 @@ window.plugins.federatedWiki =
     site = item.site
     wiki.resolveFrom site, ->
       $item.append """
-        <p style='margin-bottom:3px;'>
+        <p>
           <img class='remote'
             src='//#{site}/favicon.png'
             title='#{site}'
