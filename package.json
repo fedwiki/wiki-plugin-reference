@@ -15,21 +15,19 @@
   "contributors": [
     {
       "name": "Nick Niemeir",
-      "email": "nick.niemeir@gmail.com",
-      "url": "http://nrn.io"
+      "email": "nick.niemeir@gmail.com"
     },
     {
       "name": "Paul Rodwell",
-      "email": "paul.rodwell@btinternet.com",
-      "url": "http://wiki-paul90.rhcloud.com"
+      "email": "paul.rodwell@btinternet.com"
     }
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-authors": "node scripts/update-authors.cjs"
   },
   "devDependencies": {
-    "grunt": "^1.0.4",
-    "grunt-git-authors": "~3"
+    "grunt-git-authors": "3.2.0"
   },
   "license": "MIT",
   "repository": {
@@ -39,7 +37,8 @@
   "bugs": {
     "url": "https://github.com/fedwiki/wiki-plugin-reference/issues"
   },
+  "type": "module",
   "engines": {
-    "node": ">=0.10"
+    "node": ">=0.18"
   }
 }
