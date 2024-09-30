@@ -13,14 +13,10 @@
     "url": "http://ward.fed.wiki.org"
   },
   "contributors": [
-    {
-      "name": "Nick Niemeir",
-      "email": "nick.niemeir@gmail.com"
-    },
-    {
-      "name": "Paul Rodwell",
-      "email": "paul.rodwell@btinternet.com"
-    }
+    "Nick Niemeir <nick.niemeir@gmail.com>",
+    "Ward Cunningham <ward@c2.com>",
+    "Paul Rodwell <paul.rodwell@btinternet.com>",
+    "i2p-lbt <lbt@i2pmail.org>"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
